@@ -1578,8 +1578,8 @@ h4,
 .custom-box {
   padding: 30px;
   background: #fafafa;
-  -webkit-box-shadow: 20px 20px 0 0 #107be9;
-  box-shadow: 20px 20px 0 0 #107be9;
+  -webkit-box-shadow: 20px 20px 0 0 #495e75;
+  box-shadow: 20px 20px 0 0 #495e75;
   overflow: hidden;
   border-radius: 20px;
 }
@@ -1656,7 +1656,7 @@ h4,
 .custom-accordion .accordion-item .btn-link[aria-expanded="true"] {
   font-weight: 700;
   color: #ffffff !important;
-  background: #107BE9;
+  background: #495e75;
 }
 
 .custom-accordion .accordion-item .btn-link[aria-expanded="true"]:before {
@@ -2073,7 +2073,7 @@ h4,
   width: 30px;
   height: 30px;
   position: relative;
-  background: #107BE9;
+  background: #495e75;
   border-radius: 50%;
   color: #ffffff;
   line-height: 30px;
