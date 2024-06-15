@@ -944,6 +944,7 @@ h4,
   position: absolute;
   width: 100%;
   height: 100%;
+  display: none;
 }
 
 .image-block img,
@@ -1007,6 +1008,7 @@ h4,
   position: absolute;
   width: 100%;
   height: 200%;
+  display: none;
 }
 
 .solos_co-hero .dots:before {
